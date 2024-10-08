@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   themeConfig: {
-    logo: "assets/logo.png",
+    logo: "assets/logo1.png",
     nav: [
       { text: "首页", link: "/" },
       { text: "指南", link: "/guide/" },

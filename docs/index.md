@@ -6,7 +6,7 @@ hero:
   text: "Vue 3 + TypeScript 学习文档"
   tagline: "纸上得来终觉浅，绝知此事要躬行"
   image:
-    src: /assets/logo.png
+    src: /assets/logo1.png
     alt: 前端工程化
   actions:
     - theme: brand
