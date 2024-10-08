@@ -1,5 +1,5 @@
 <p  style="text-align: center;">
-<img src="https://imgs.699pic.com/images/601/628/305.jpg!seo.v1" style="width:200px;"/>
+<img src="https://imgs.699pic.com/images/601/628/305.jpg!seo.v1" style="width:200px;"  style="text-align: center;"/>
 </p>
 <h1 style="text-align: center;">Vue 3 + TypeScript 学习文档</h1>
 <p style="text-align: center;"> 
