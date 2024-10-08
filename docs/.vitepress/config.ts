@@ -1,4 +1,14 @@
-import { defineConfig } from 'vitepress'
-
-// https://vitepress.vuejs.org/config/app-configs
-export default defineConfig({})
+export default defineConfig({
+    themeConfig:{
+        sidebar:{
+            "/guide/":[
+                collapsible: true,
+                items:[
+                    { text: "介绍", link: "/guide/" },
+                    { text: "安装", link: "/guide/installation" },
+                    { text: "基本概念", link: "/guide/concepts" },
+                ],
+            ],
+        }
+    }
+})
