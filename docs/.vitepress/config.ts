@@ -1,7 +1,10 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  title: "Vue 3 + TypeScript 学习文档",
+  description: "详细学习 Vue 3 和 TypeScript 的指南",
   themeConfig: {
+    siteTitle: "前端学习",
     logo: "assets/logo1.png",
     nav: [
       { text: "首页", link: "/" },
