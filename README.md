@@ -1,5 +1,5 @@
 <p  style="text-align: center;">
-<img src="https://imgs.699pic.com/images/601/628/305.jpg!seo.v1" style="width:200px;"/>
+<img src="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E8%B4%A5%E7%8A%AC%E5%A5%B3%E4%B8%BB%E5%A4%AA%E5%A4%9A%E4%BA%86&step_word=&hs=0&pn=207&spn=0&di=7410818322373017601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3400553269%2C457695640&os=3182442767%2C4087674859&simid=37846835%2C749390978&adpicid=0&lpn=0&ln=1616&fr=&fmq=1728482861502_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F1c2a3ef57076adfd21fc042fcc85c910067770b2.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bktstktst_z%26e3Bv54AzdH3Fet1j5AzdH3FBV8v298820PQ%3Fu654_fr4t1%3Dmmm_z%26e3B9_z%26e3Ba_z%26e3Ba&gsm=b4&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwzLDEsMiwxMyw3LDYsNSwxMiw5&lid=12061120823048219894" style="width:200px;"/>
 </p>
 <h1 style="text-align: center;">Vue 3 + TypeScript 学习文档</h1>
 <p style="text-align: center;"> 
